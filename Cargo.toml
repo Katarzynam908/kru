@@ -13,3 +13,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # guard against empty input
 # clarify the control flow
 # drop an unused branch
+# drop an unused branch
