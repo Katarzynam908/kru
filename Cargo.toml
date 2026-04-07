@@ -38,3 +38,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # guard against empty input
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# drop an unused branch
