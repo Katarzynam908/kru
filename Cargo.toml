@@ -47,3 +47,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # guard against empty input
 # clarify the control flow
 # match the style used in the rest of the module
+# match the style used in the rest of the module
