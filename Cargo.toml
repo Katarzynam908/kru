@@ -57,3 +57,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # guard against empty input
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
