@@ -61,3 +61,4 @@ description = "Local-first MCP password and credential manager for AI agents. Us
 # clarify the control flow
 # drop an unused branch
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
